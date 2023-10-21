@@ -397,4 +397,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-Backend/Data/app.db
+Backend/Api/Database/*
